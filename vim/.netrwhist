@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/scripts/x-ping/beta29'
-let g:netrw_dirhist_2='/local/scripts/x-ping/beta30'
-let g:netrw_dirhist_3='/tmp'
-let g:netrw_dirhist_4='/local/scripts/x-ping/xflow'
-let g:netrw_dirhist_5='/local/scripts/tmp'
-let g:netrw_dirhist_6='/local/scripts/shiron/mkrack'
